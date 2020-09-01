@@ -1,4 +1,4 @@
 # Hackr
 Hackr: Hacking Game
 
-https://callumpilton.co.uk/hackr
+https://hackr.callumpilton.co.uk/
