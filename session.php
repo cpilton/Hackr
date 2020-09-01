@@ -7,7 +7,7 @@
 
 <link rel="icon" href="images/favicon.ico" type="image/x-icon">
    
-   <script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+   <script type="text/javascript" src="js/jquery-3.5.1.min.js"></script>
 <script type="text/javascript">
 $(document).ready(function() {
 	$("#username").keyup(function (e) {

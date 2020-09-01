@@ -24,7 +24,7 @@ $time = time();
 	<link href="styles/styles.css" rel="stylesheet" type="text/css">
 	<link href="styles/fonts.css" rel="stylesheet" type="text/css">
 	<link rel="icon" href="img/favicon.ico" type="image/x-icon">
-	<script src="js/jquery-1.7.1.min.js"></script>
+	<script src="js/jquery-3.5.1.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
 	<script src="js/jquery.animated-progressbar.js"></script>
 
